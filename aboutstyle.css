@@ -1,0 +1,36 @@
+*
+{
+	padding: 0;
+	margin:0;
+}
+.header
+{
+	
+
+}
+.header-one img
+{
+	margin-top: 120px;
+    height: 360px;
+    width: 620px;
+
+}
+.header-two
+{
+	background-color: #00e5e6;
+	width:55%;
+	float:right;
+	margin-top:-574px;
+   left:20px;
+    font-size: 30px;
+    margin-right: 20px;
+    font-family: sans-serif;
+   height:560px;
+   position:relative;
+}
+.last
+{
+	background-color:green;
+	height: 100px;
+	width: 100%;
+}
